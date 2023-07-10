@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.eeb840a9.js",
-    "static/js/787.d205eda2.chunk.js": "/static/js/787.d205eda2.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.eeb840a9.js.map": "/static/js/main.eeb840a9.js.map",
-    "787.d205eda2.chunk.js.map": "/static/js/787.d205eda2.chunk.js.map"
+    "main.css": "/react-sw-example/static/css/main.073c9b0a.css",
+    "main.js": "/react-sw-example/static/js/main.d29d651b.js",
+    "static/js/787.d205eda2.chunk.js": "/react-sw-example/static/js/787.d205eda2.chunk.js",
+    "service-worker.js": "/react-sw-example/service-worker.js",
+    "static/media/logo.svg": "/react-sw-example/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/react-sw-example/index.html",
+    "main.073c9b0a.css.map": "/react-sw-example/static/css/main.073c9b0a.css.map",
+    "main.d29d651b.js.map": "/react-sw-example/static/js/main.d29d651b.js.map",
+    "787.d205eda2.chunk.js.map": "/react-sw-example/static/js/787.d205eda2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.eeb840a9.js"
+    "static/js/main.d29d651b.js"
   ]
 }
